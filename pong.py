@@ -1,4 +1,4 @@
-#Pong by EnatsuCode
+#Pong game
 
 import turtle
 
